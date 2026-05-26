@@ -6,4 +6,4 @@ Mi primera configuración local para GitHub
 
 Un commit más desde GitHub
 
-Una actualización más
+Una actualización más.
